@@ -1,7 +1,5 @@
 package number.numbertostring;
 
-import jakarta.servlet.ServletException;
-
 import java.io.IOException;
 
 public class NumberToWord {
